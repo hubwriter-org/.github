@@ -1,0 +1,13 @@
+{
+    "name": "hubwriter-org Organization Workflow",
+    "description": "This is a starter workflow for the hubwriter-org organization.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
